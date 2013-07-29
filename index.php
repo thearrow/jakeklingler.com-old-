@@ -7,32 +7,29 @@
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/foundation/4.3.1/css/foundation.min.css" />
 	<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
 	<script>
-	  WebFont.load({
-	    google: {
-	      families: ['Lato:300,400,700']
-	    }
-	  });
+		WebFont.load({
+			google: {
+				families: ['Lato:300,400,700']
+			}
+		});
 	</script>
-	<style type="text/css">
-	h1 { 
-		font-family: 'Lato';
-		font-weight: 300;
-		font-size: 4em;
-	}
-	h3 {
-		font-family: 'Lato';
-		font-weight: 300;
-		font-size: 1.5em;
-	}
-	</style>
+	<link rel="stylesheet" type="text/css" href="app.css"/>
 	<title>Jake Klingler | Programmer</title>
-
 </head>
 <body>
 
 	<div class="row text-center">
-		<h1>Jake Klingler</h1>
-		<h3 class="subheader">New Site Coming Soon...</h3>
+		<h1 class="header">Jake Klingler</h1>
+		<h3 class="subheader small-header">New Site Coming Soon...</h3>
+	</div>
+
+	<div class="row text-center">
+			<a href="http://careers.stackoverflow.com/jakeklingler">
+				<img class="link-images" src="img/so.svg">
+			</a>
+			<a href="http://github.com/thearrow">
+				<img class="link-images" src="img/gh.svg">
+			</a>			
 	</div>
 
 	<!-- FOUNDATION -->
