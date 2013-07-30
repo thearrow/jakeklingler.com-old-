@@ -8,34 +8,20 @@
 @import "foundation/components/forms";
 
 $fontFamily: 'Lato';
-$fontWeight: 100;
-@mixin fontStyle {
-	font:{
-		family: $fontFamily;
-		weight: $fontWeight;
-	}	
-}
 $defaultShadow: 2px 2px 2px rgba(0,0,0,0.25);
+$bkgLarge: url('../img/bkg.jpg');
+$bkgSmall: url('../img/bkg-small.jpg');
 
 @mixin headerText {
+	font-family: $fontFamily;
 	color: rgba(255,255,255,1);
 	background: rgba(0,0,0,0.25);
 	text-shadow: $defaultShadow;
 }
 
-.background-pic {
-	background: url('../img/bkg.jpg');
-	background-size: 100% auto;
+@mixin bkgImg {
+	background-size: cover;
 	box-shadow: $defaultShadow;
-}
-.header { 
-	@include fontStyle;
-	@include headerText;
-}
-.small-header{
-	@include fontStyle;
-	@include headerText;
-	margin-bottom: 2em;
 }
 
 .icon-row{
@@ -43,26 +29,51 @@ $defaultShadow: 2px 2px 2px rgba(0,0,0,0.25);
 }
 .link-images {
 	margin: 1em;
-	opacity: 1;
 }
 
 @media #{$screen} {
-	.header {
-		font-size: 2.5em;
+	.background-pic{
+		background: $bkgSmall;
+		@include bkgImg;
 	}
-	h3 {
-		font-size: 1em;
+	.header {
+		@include headerText;
+		font:{
+			size: 2.5em;
+			weight: 300;
+		}
+	}
+	.small-header {
+		@include headerText;
+		margin-bottom: 2em;
+		font:{
+			size: 1em;
+			weight: 300;
+		}
 	}
 	.link-images {
 		height: 100px;
 	}
 }
 @media #{$small} {
-	.header {
-		font-size: 5em;
+	.background-pic{
+		background: $bkgLarge;
+		@include bkgImg;
 	}
-	h3 {
-		font-size: 2em;
+	.header {
+		@include headerText;
+		font:{
+			size: 5em;
+			weight: 100;
+		}
+	}
+	.small-header {
+		@include headerText;
+		margin-bottom: 2em;
+		font:{
+			size: 2em;
+			weight: 100;
+		}
 	}
 	.link-images {
 		height: 200px;
@@ -70,10 +81,19 @@ $defaultShadow: 2px 2px 2px rgba(0,0,0,0.25);
 }
 @media #{$large} {
 	.header {
-		font-size: 6em;
+		@include headerText;
+		font:{
+			size: 6em;
+			weight: 100;
+		}
 	}
-	h3 {
-		font-size: 3em;
+	.small-header {
+		@include headerText;
+		margin-bottom: 2em;
+		font:{
+			size: 3em;
+			weight: 100;
+		}
 	}
 	.link-images {
 		height: 250px;
