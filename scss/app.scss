@@ -29,6 +29,7 @@ $bkgSmall: url('../img/bkg-small.jpg');
 }
 .link-images {
 	margin: 1em;
+	display: inline-block;
 }
 
 @media #{$screen} {

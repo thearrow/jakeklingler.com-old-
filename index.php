@@ -25,12 +25,16 @@
 	</div>
 
 	<div class="row text-center icon-row">
+		<div class="link-images">
 			<a href="http://careers.stackoverflow.com/jakeklingler">
-				<img class="link-images" src="img/so.svg">
+				<object data="img/so.svg" type="image/svg+xml"></object>
 			</a>
+		</div>
+		<div class="link-images">
 			<a href="http://github.com/thearrow">
-				<img class="link-images" src="img/gh.svg">
-			</a>			
+				<object data="img/gh.svg" type="image/svg+xml"></object>
+			</a>
+		</div>			
 	</div>
 
 	<!-- FOUNDATION -->
