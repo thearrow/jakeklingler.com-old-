@@ -17,22 +17,22 @@
 </head>
 <body>
 
-	<div class="background-pic">
-		<div class="row text-center">
-			<h1 class="header">Jake Klingler</h1>
+	<div class="top">
+		<div class="row text-center header-container">
+			<h1 class="header">JAKE KLINGLER</h1>
 			<h3 class="subheader small-header">New Site Coming Soon...</h3>
 		</div>
 	</div>
 
 	<div class="row text-center icon-row">
-		<div class="link-images">
+		<div class="image-container">
 			<a href="http://careers.stackoverflow.com/jakeklingler">
-				<object data="img/so.svg" type="image/svg+xml"></object>
+				<img class="link-images" src="img/so.svg"/>
 			</a>
 		</div>
-		<div class="link-images">
+		<div class="image-container">
 			<a href="http://github.com/thearrow">
-				<object data="img/gh.svg" type="image/svg+xml"></object>
+				<img class="link-images" src="img/gh.svg"/>
 			</a>
 		</div>			
 	</div>

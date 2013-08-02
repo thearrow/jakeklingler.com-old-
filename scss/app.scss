@@ -8,34 +8,42 @@
 @import "foundation/components/forms";
 
 $fontFamily: 'Lato';
-$defaultShadow: 2px 2px 2px rgba(0,0,0,0.25);
+$defaultShadow: 1px 1px 2px rgba(0,0,0,0.5);
 $bkgLarge: url('../img/bkg.jpg');
 $bkgSmall: url('../img/bkg-small.jpg');
 
 @mixin headerText {
 	font-family: $fontFamily;
 	color: rgba(255,255,255,1);
-	background: rgba(0,0,0,0.25);
 	text-shadow: $defaultShadow;
 }
 
-@mixin bkgImg {
+@mixin headerImage{
 	background-size: cover;
 	box-shadow: $defaultShadow;
 }
 
+.header{
+	background: rgba(0,0,0,0.3);
+	box-shadow: $defaultShadow;
+}
 .icon-row{
 	margin-top: 1em;
 }
 .link-images {
 	margin: 1em;
+}
+.image-container {
 	display: inline-block;
+}
+.header-container {
+	max-width: 45em;
 }
 
 @media #{$screen} {
-	.background-pic{
+	.top{
 		background: $bkgSmall;
-		@include bkgImg;
+		@include headerImage;
 	}
 	.header {
 		@include headerText;
@@ -53,13 +61,13 @@ $bkgSmall: url('../img/bkg-small.jpg');
 		}
 	}
 	.link-images {
-		height: 100px;
+		height: 5em;
 	}
 }
 @media #{$small} {
-	.background-pic{
+	.top{
 		background: $bkgLarge;
-		@include bkgImg;
+		@include headerImage;
 	}
 	.header {
 		@include headerText;
@@ -77,10 +85,14 @@ $bkgSmall: url('../img/bkg-small.jpg');
 		}
 	}
 	.link-images {
-		height: 200px;
+		height: 10em;
 	}
 }
 @media #{$large} {
+	.top{
+		background: $bkgLarge;
+		@include headerImage;
+	}
 	.header {
 		@include headerText;
 		font:{
@@ -92,12 +104,9 @@ $bkgSmall: url('../img/bkg-small.jpg');
 		@include headerText;
 		margin-bottom: 2em;
 		font:{
-			size: 3em;
+			size: 2.5em;
 			weight: 100;
 		}
-	}
-	.link-images {
-		height: 250px;
 	}
 }
 
