@@ -94,8 +94,7 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	}
 }
 .link-image{
-	-webkit-filter: drop-shadow($defaultShadow);
-	filter: drop-shadow($defaultShadow);
+	box-shadow: $defaultShadow;
 }
 .hrule{
 	height: 1px;

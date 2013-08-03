@@ -54,34 +54,34 @@
 			<ul class="small-block-grid-3">
 				<li class="link-images">
 					<a href="http://github.com/thearrow">
-						<img class="link-image" src="img/webicon-github.svg"/>
+						<img class="link-image" src="img/webicon-github.svg" alt="My Github"/>
 					</a>
 				</li>
 				<li class="link-images">
 					<a href="http://careers.stackoverflow.com/jakeklingler">
-						<img class="link-image" src="img/webicon-stackoverflow.svg"/>
+						<img class="link-image" src="img/webicon-stackoverflow.svg" alt="My StackOverflow"/>
 					</a>
 				</li>
 				<li class="link-images">
 					<ul class="small-block-grid-2">
 						<li class="link-images-small">
 							<a href="https://www.quora.com/Jake-Klingler">
-								<img class="link-image" src="img/webicon-quora.svg"/>
+								<img class="link-image" src="img/webicon-quora.svg" alt="My Quora"/>
 							</a>
 						</li>
 						<li class="link-images-small">
 							<a href="https://www.facebook.com/jacob.klingler">
-								<img class="link-image" src="img/webicon-facebook.svg"/>
+								<img class="link-image" src="img/webicon-facebook.svg" alt="My Facebook"/>
 							</a>
 						</li>
 						<li class="link-images-small">
 							<a href="http://www.goodreads.com/user/show/8126915-jake-klingler">
-								<img class="link-image" src="img/webicon-goodreads.svg"/>
+								<img class="link-image" src="img/webicon-goodreads.svg" alt="My GoodReads"/>
 							</a>
 						</li>
 						<li class="link-images-small">
 							<a href="http://www.flickr.com/photos/9829286@N07/">
-								<img class="link-image" src="img/webicon-flickr.svg"/>
+								<img class="link-image" src="img/webicon-flickr.svg" alt="My Flickr"/>
 							</a>
 						</li>
 					</ul>		

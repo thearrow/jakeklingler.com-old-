@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="456 256 48 48" enable-background="new 456 256 48 48" xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="351.3662" y1="312.875" x2="351.3662" y2="301.375" gradientTransform="matrix(4.1667 0 0 -4.1667 -983.9935 1559.6541)">
-	<stop  offset="0" style="stop-color:#f9f9f9"/>
-	<stop  offset="1" style="stop-color:#f9f9f9"/>
+<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="610.942px" height="610.942px" viewBox="457.058 346 610.942 610.942" enable-background="new 457.058 346 610.942 610.942"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="351.8562" y1="479.6161" x2="351.8562" y2="491.1161" gradientTransform="matrix(53.1254 0 0 53.1254 -17929.9805 -25133.8105)">
+	<stop  offset="0" style="stop-color:#F9F9F9"/>
+	<stop  offset="1" style="stop-color:#F9F9F9"/>
 </linearGradient>
-<path fill="url(#SVGID_1_)" d="M504,297.928c0,3.307-2.683,5.989-5.989,5.989h-35.938c-3.308,0-5.99-2.683-5.99-5.989V261.99
-	c0-3.307,2.682-5.99,5.99-5.99h35.938c3.307,0,5.989,2.683,5.989,5.99V297.928z"/>
+<path fill="url(#SVGID_1_)" d="M1068,956.942H457.058V346H1068V956.942z"/>
 <g>
-	<polygon fill="#919191" points="488.796,296.591 467.833,296.591 467.833,283.644 470.462,283.644 470.462,293.975 
-		486.167,293.975 486.167,283.644 488.796,283.644 	"/>
-	<rect x="472.302" y="289.268" fill="#919191" width="12.091" height="2.615"/>
+	<polygon fill="#919191" points="874.149,863.535 606.871,863.535 606.871,698.461 640.391,698.461 640.391,830.181 
+		840.629,830.181 840.629,698.461 874.149,698.461 	"/>
+	<rect x="663.851" y="770.167" fill="#919191" width="154.16" height="33.341"/>
 	
-		<rect x="472.302" y="285.082" transform="matrix(0.9961 0.088 -0.088 0.9961 27.0453 -40.9658)" fill="#a78b68" width="12.09" height="2.616"/>
-	<polygon fill="#c19653" points="484.597,284.705 472.961,281.438 473.675,278.919 485.311,282.188 	"/>
-	<polygon fill="#d48c28" points="485.624,281.438 475.147,275.431 476.459,273.164 486.937,279.169 	"/>
-	<polygon fill="#fe8908" points="487.673,278.647 480.678,268.835 482.821,267.321 489.817,277.134 	"/>
-	<polygon fill="#ff7a15" points="490.414,276.848 488.27,265.007 490.856,264.543 493.002,276.385 	"/>
+		<rect x="663.564" y="716.947" transform="matrix(-0.9961 -0.088 0.088 -0.9961 1413.8394 1529.5775)" fill="#A78B68" width="154.144" height="33.353"/>
+	<polygon fill="#C19653" points="820.612,711.989 672.253,670.334 681.356,638.217 829.715,679.897 	"/>
+	<polygon fill="#D48C28" points="833.706,670.334 700.124,593.745 716.852,564.841 850.447,641.405 	"/>
+	<polygon fill="#FE8908" points="859.831,634.749 770.645,509.646 797.968,490.343 887.167,615.459 	"/>
+	<polygon fill="#FF7A15" points="894.779,611.812 867.442,460.839 900.414,454.923 927.776,605.909 	"/>
 </g>
 </svg>
