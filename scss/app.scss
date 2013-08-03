@@ -7,11 +7,12 @@
 @import "foundation/components/buttons";
 @import "foundation/components/forms";
 
-$fontFamily: 'Lato';
+$fontFamily: 'Raleway';
 $defaultShadow: 1px 1px 2px rgba(0,0,0,0.5);
+$hrColor: rgba(0,0,0,.15);
+$hrSize: 10px;
 $bkgLarge: url('../img/bkg.jpg');
 $bkgSmall: url('../img/bkg-small.jpg');
-$imgHeight: 10em;
 
 @mixin headerText {
 	font-family: $fontFamily;
@@ -19,69 +20,109 @@ $imgHeight: 10em;
 	text-shadow: $defaultShadow;
 }
 
-@mixin headerImage{
-	background-size: cover;
-	box-shadow: $defaultShadow;
-}
-
 .top{
 	margin-bottom: 1em;
+	box-shadow: $defaultShadow;
+	@media #{$screen} {
+		background: $bkgSmall;
+		background-size: cover;
+	}
+	@media #{$small} {
+		background: $bkgLarge;
+		background-size: cover;
+	}
 }
 .header{
+	@include headerText;
 	background: rgba(0,0,0,0.3);
 	box-shadow: $defaultShadow;
-}
-.header-container {
-	max-width: 45em;
-}
-.image-row{
-	max-width: 30em;
-}
-
-
-//mobile
-@media #{$screen} {
-	.top{
-		background: $bkgSmall;
-		@include headerImage;
-	}
-	.header {
-		@include headerText;
+	@media #{$screen} {
 		font:{
 			size: 2.5em;
 			weight: 300;
 		}
 	}
-	.small-header {
-		@include headerText;
-		margin-bottom: 2em;
-		font:{
-			size: 1em;
-			weight: 300;
-		}
-	}
-}
-//desktop
-@media #{$small} {
-	.top{
-		background: $bkgLarge;
-		@include headerImage;
-	}
-	.header {
-		@include headerText;
+	@media #{$small} {
 		font:{
 			size: 5em;
 			weight: 100;
 		}
 	}
-	.small-header {
-		@include headerText;
-		margin-bottom: 2em;
+}
+.small-header{
+	@include headerText;
+	margin-bottom: 2em;
+	@media #{$screen} { 
+		font:{
+			size: 1em;
+			weight: 300;
+		} 
+	}
+	@media #{$small} { 
 		font:{
 			size: 2em;
 			weight: 100;
-		}
+		} 
+	}	
+}
+.group-header{
+	font-family: $fontFamily;
+	color: rgba(0,0,0,1);
+	@media #{$screen} { 
+		font:{
+			size: 1.25em;
+			weight: 300;
+		} 
+	}
+	@media #{$small} { 
+		text-shadow: $defaultShadow;
+		font:{
+			size: 2em;
+			weight: 100;
+		} 
 	}
 }
+.header-container {
+	max-width: 45em;
+}
+.image-row{
+	@media #{$screen} { 
+		max-width: 20em;	 
+	}
+	@media #{$small} { 
+		max-width: 25em;		 
+	}
+}
+.link-image{
+	-webkit-filter: drop-shadow($defaultShadow);
+	filter: drop-shadow($defaultShadow);
+}
+.hrule{
+	height: 1px;
+	background: $hrColor;
+	margin: 1em;
+}
+.hrule-inner{
+	background-color: white;
+	border-width: 1px;
+	border-style: solid;
+	position: absolute;
+	left: 50%;
+	border-color: $hrColor;
 
+	@media #{$screen} { 
+		border-radius: $hrSize;
+		height: $hrSize/2;
+		width: $hrSize/2;
+		margin-left: -$hrSize/4;
+		margin-top: -$hrSize/4;
+	}
+	@media #{$small} { 
+		border-radius: $hrSize*2;
+		height: $hrSize;
+		width: $hrSize;
+		margin-left: -$hrSize/2;
+		margin-top: -$hrSize/2;
+	}
+}
  
