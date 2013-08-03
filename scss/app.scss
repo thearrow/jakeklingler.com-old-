@@ -11,6 +11,7 @@ $fontFamily: 'Lato';
 $defaultShadow: 1px 1px 2px rgba(0,0,0,0.5);
 $bkgLarge: url('../img/bkg.jpg');
 $bkgSmall: url('../img/bkg-small.jpg');
+$imgHeight: 10em;
 
 @mixin headerText {
 	font-family: $fontFamily;
@@ -23,23 +24,22 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	box-shadow: $defaultShadow;
 }
 
+.top{
+	margin-bottom: 1em;
+}
 .header{
 	background: rgba(0,0,0,0.3);
 	box-shadow: $defaultShadow;
 }
-.icon-row{
-	margin-top: 1em;
-}
-.link-images {
-	margin: 1em;
-}
-.image-container {
-	display: inline-block;
-}
 .header-container {
 	max-width: 45em;
 }
+.image-row{
+	max-width: 30em;
+}
 
+
+//mobile
 @media #{$screen} {
 	.top{
 		background: $bkgSmall;
@@ -60,10 +60,8 @@ $bkgSmall: url('../img/bkg-small.jpg');
 			weight: 300;
 		}
 	}
-	.link-images {
-		height: 5em;
-	}
 }
+//desktop
 @media #{$small} {
 	.top{
 		background: $bkgLarge;
@@ -81,30 +79,6 @@ $bkgSmall: url('../img/bkg-small.jpg');
 		margin-bottom: 2em;
 		font:{
 			size: 2em;
-			weight: 100;
-		}
-	}
-	.link-images {
-		height: 10em;
-	}
-}
-@media #{$large} {
-	.top{
-		background: $bkgLarge;
-		@include headerImage;
-	}
-	.header {
-		@include headerText;
-		font:{
-			size: 6em;
-			weight: 100;
-		}
-	}
-	.small-header {
-		@include headerText;
-		margin-bottom: 2em;
-		font:{
-			size: 2.5em;
 			weight: 100;
 		}
 	}
