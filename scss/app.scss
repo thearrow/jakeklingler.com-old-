@@ -23,6 +23,7 @@ $bkgSmall: url('../img/bkg-small.jpg');
 .top{
 	margin-bottom: 1em;
 	box-shadow: $defaultShadow;
+	width: 100%;
 	@media #{$screen} {
 		background: $bkgSmall;
 		background-size: cover;
@@ -87,7 +88,7 @@ $bkgSmall: url('../img/bkg-small.jpg');
 }
 .image-row{
 	@media #{$screen} { 
-		max-width: 20em;	 
+		max-width: 18em;	 
 	}
 	@media #{$small} { 
 		max-width: 25em;		 
