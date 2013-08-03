@@ -96,10 +96,18 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	}
 }
 .link-image{
-	box-shadow: $defaultShadow;
+	box-shadow: $subtleShadow;
+	@media #{$screen} { 
+		height: 73px;
+		width: 73px; 
+	}
+	@media #{$small} { 
+		height: 110px;
+		width: 110px; 
+	}
 }
 .link-image-small{
-	box-shadow: $defaultShadow;
+	box-shadow: $subtleShadow;
 	@media #{$screen} { 
 		height: 25px;
 		width: 25px; 
