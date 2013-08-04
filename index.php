@@ -38,12 +38,53 @@
 							<img class="project-image" src="http://placehold.it/130x130"/>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">PROJECT 1</h5>
+							<h5 class="project-header">MYCHART FOR WINDOWS PHONE</h5>
+							<p class="project-info">Epic – (May-Aug 2013)</p>
 							<ul class="desc-list">
-								<li class="description">Description line one</li>
-								<li class="description">Description line two</li>
+								<li class="description">MyChart allows patients to access their health information, view test results, send messages to their doctor, refill medications, and schedule appointments from their phone.</li>
 								<li>
-									<div class="tech-tag">RUBY</div>
+									<div class="tech-tag">C#</div>
+									<div class="tech-tag">.NET</div>
+									<div class="tech-tag">XAML</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img class="project-image" src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">LASER-TRIPWIRE SECURITY SYSTEM</h5>
+							<p class="project-info">The Ohio State University – (Feb-Apr 2013)</p>
+							<ul class="desc-list">
+								<li class="description">Built sensors using Raspberry Pi's and laser pointers that sent a push notification to a mobile app when tripped.</li>
+								<li class="description"></li>
+								<li>
+									<div class="tech-tag">RUBY ON RAILS</div>
+									<div class="tech-tag">JS/CSS/HTML</div>
+									<div class="tech-tag">PYTHON</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img class="project-image" src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">FINANCIAL MARKET NEURAL NETWORK</h5>
+							<p class="project-info">The Ohio State University – (Feb-Apr 2013)</p>
+							<ul class="desc-list">
+								<li class="description">Designed and trained a recurrent neural network to predict the short-term movements of financial markets.</li>
+								<li class="description">(PyBrain, pandas, numpy, matplotlib)</li>
+								<li>
 									<div class="tech-tag">PYTHON</div>
 								</li>
 							</ul>
@@ -53,32 +94,19 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img src="http://placehold.it/130x130"/>
+							<img class="project-image" src="http://placehold.it/130x130"/>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">PROJECT 2</h5>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-6 columns project-container">
-					<div class="row">
-						<div class="small-4 columns">
-							<img src="http://placehold.it/130x130"/>
-						</div>
-						<div class="small-8 columns">
-							<h5 class="project-header">PROJECT 3</h5>
-						</div>
-					</div>
-				</div>
-				<div class="large-6 columns project-container">
-					<div class="row">
-						<div class="small-4 columns">
-							<img src="http://placehold.it/130x130"/>
-						</div>
-						<div class="small-8 columns">
-							<h5 class="project-header">PROJECT 4</h5>
+							<h5 class="project-header">VARIOUS WEB PROJECTS</h5>
+							<p class="project-info">The Ohio State University Libraries<br/> (Sept 2009 - Feb 2013)</p>
+							<ul class="desc-list">
+								<li class="description">Assisted with development of several applications for the OSU Libraries.</li>
+								<li class="description">(Rails internal scheduling app, <a href="http://library.osu.edu/about/map/">library map</a> in JS, <a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator.</li>
+								<li>
+									<div class="tech-tag">RUBY ON RAILS</div>
+									<div class="tech-tag">JS/CSS/HTML</div>
+								</li>
+							</ul>
 						</div>
 					</div>
 				</div>

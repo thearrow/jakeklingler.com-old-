@@ -74,7 +74,7 @@ $bkgSmall: url('../img/bkg-small.jpg');
 //GROUPS===================================================
 .group-header{
 	font-family: $fontFamily;
-	margin-top: 2em;
+	margin-top: 1em;
 	color: rgba(0,0,0,1);
 	@media #{$screen} { 
 		font:{
@@ -138,11 +138,15 @@ $bkgSmall: url('../img/bkg-small.jpg');
 		size: 1.25em;
 	}
 }
+.project-info{
+	font-size: .75em;
+	color: #a3a3a3;
+}
 .desc-list{
 	list-style-type: none;
 }
 .description{
-
+	font-size: .8em;
 }
 .tech-tag{
 	display: inline-block;
