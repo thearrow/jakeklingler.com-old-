@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="130px" height="130px" viewBox="0 0 130 130" enable-background="new 0 0 130 130" xml:space="preserve">
+	 preserveAspectRatio="xMinYMin none" viewBox="0 0 130 130" enable-background="new 0 0 130 130" xml:space="preserve">
 <g id="Layer_2">
 	<rect fill="#F2F2F2" width="130" height="130"/>
 </g>
@@ -19,7 +18,7 @@
 	c-7.134-3.708-14.732-16.202-19.185-13.245S82.222,7.488,85.154,17.311z"/>
 <path fill="#C15B5F" d="M55,46.643C55,51.811,50.811,56,45.643,56H20.357C15.189,56,11,51.811,11,46.643V14.357
 	C11,9.189,15.189,5,20.357,5h25.287C50.811,5,55,9.189,55,14.357V46.643z"/>
-<polygon fill="#C15B5F" points="43.794,56 33.333,74.118 22.873,56 "/>
+<polygon fill="#C15B5F" points="43.794,55.625 33.333,74.118 22.873,55.625 "/>
 <rect x="19" y="14" fill="#CCCCCC" width="7" height="33"/>
 <rect x="28" y="14" fill="#CCCCCC" width="7" height="33"/>
 <rect x="37" y="14" fill="#CCCCCC" width="3" height="33"/>

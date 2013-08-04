@@ -36,7 +36,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="http://placehold.it/130x130"/>
+							<img class="project-image" src="img/projects/mychart.svg"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">MYCHART FOR WINDOWS PHONE</h5>
