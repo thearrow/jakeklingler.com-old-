@@ -30,6 +30,7 @@
 				<span class="hrule-inner"></span>
 			</div>
 		</div>
+
 		<div class="small-10 small-centered columns">
 			<div class="row">
 				<div class="large-6 columns project-container">
@@ -72,6 +73,7 @@
 					</div>
 				</div>
 			</div>
+
 			<div class="row">
 				<div class="large-6 columns project-container">
 					<div class="row">
@@ -105,6 +107,43 @@
 								<li>
 									<div class="tech-tag">RUBY ON RAILS</div>
 									<div class="tech-tag">JS/CSS/HTML</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img class="project-image" src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">HIGH SCHOOL REUNION WEBSITE</h5>
+							<p class="project-info">Hoban Class of 1970 – (Jul-Aug 2010)</p>
+							<ul class="desc-list">
+								<li class="description">Designed and built a website for a high school class reunion using Drupal CMS.</li>
+								<li>
+									<div class="tech-tag">JS/CSS/HTML</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img class="project-image" src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">RATE-IT IPHONE APP</h5>
+							<p class="project-info">Carrick Enterprises – (Jun-Aug 2009)</p>
+							<ul class="desc-list">
+								<li class="description">Built a simple app for rating user-specified categories of items (e.g. wine, cat food, etc.)</li>
+								<li>
+									<div class="tech-tag">OBJECTIVE-C</div>
 								</li>
 							</ul>
 						</div>
