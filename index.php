@@ -36,10 +36,14 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/mychart.svg"/>
+							<a href="http://www.epic.com/software-phr.php">
+								<img class="project-image" src="img/projects/mychart.svg"/>
+							</a>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">MYCHART FOR WINDOWS PHONE</h5>
+							<a href="http://www.epic.com/software-phr.php">
+								<h5 class="project-header">MYCHART FOR WINDOWS PHONE</h5>
+							</a>
 							<p class="project-info">Epic – (May-Aug 2013)</p>
 							<ul class="desc-list">
 								<li class="description">MyChart allows patients to access their health information, view test results, send messages to their doctor, refill medications, and schedule appointments from their phone.</li>
@@ -55,10 +59,14 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/laser.svg"/>
+							<a href="https://github.com/thearrow/securitysystem-android">
+								<img class="project-image" src="img/projects/laser.svg"/>
+							</a>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">LASER-TRIPWIRE SECURITY SYSTEM</h5>
+							<a href="https://github.com/thearrow/securitysystem-android">
+								<h5 class="project-header">LASER-TRIPWIRE SECURITY SYSTEM</h5>
+							</a>
 							<p class="project-info">The Ohio State University – (Feb-Apr 2013)</p>
 							<ul class="desc-list">
 								<li class="description">Built sensors using Raspberry Pi's and laser pointers that sent a push notification to a mobile app when tripped.</li>
@@ -78,10 +86,14 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
+						<a href="https://github.com/thearrow/ai-financialANN">
 							<img class="project-image" src="img/projects/ann.svg"/>
+						</a>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">FINANCIAL MARKET NEURAL NETWORK</h5>
+							<a href="https://github.com/thearrow/ai-financialANN">
+								<h5 class="project-header">FINANCIAL MARKET NEURAL NETWORK</h5>
+							</a>
 							<p class="project-info">The Ohio State University – (Feb-Apr 2013)</p>
 							<ul class="desc-list">
 								<li class="description">Designed and trained a recurrent neural network to predict the short-term movements of financial markets.</li>
