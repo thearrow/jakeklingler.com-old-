@@ -55,7 +55,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="http://placehold.it/130x130"/>
+							<img class="project-image" src="img/projects/laser.svg"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">LASER-TRIPWIRE SECURITY SYSTEM</h5>
@@ -78,7 +78,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="http://placehold.it/130x130"/>
+							<img class="project-image" src="img/projects/ann.svg"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">FINANCIAL MARKET NEURAL NETWORK</h5>
@@ -96,14 +96,14 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="http://placehold.it/130x130"/>
+							<img class="project-image" src="img/projects/map.svg"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">VARIOUS WEB PROJECTS</h5>
 							<p class="project-info">The Ohio State University Libraries<br/> (Sept 2009 - Feb 2013)</p>
 							<ul class="desc-list">
 								<li class="description">Assisted with development of several applications for the OSU Libraries.</li>
-								<li class="description">(Rails internal scheduling app, <a href="http://library.osu.edu/about/map/">library map</a> in JS, <a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator.</li>
+								<li class="description">(<a href="http://library.osu.edu/about/map/">Library map</a> in JS, a Rails scheduling app, <a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator.</li>
 								<li>
 									<div class="tech-tag">RUBY ON RAILS</div>
 									<div class="tech-tag">JS/CSS/HTML</div>
@@ -135,7 +135,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="http://placehold.it/130x130"/>
+							<img class="project-image" src="img/projects/rateit.svg"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">RATE-IT IPHONE APP</h5>
