@@ -23,11 +23,65 @@
 		</div>
 	</div>
 
-	<div class="row text-center">
-		<div class="small-6 small-centered columns">
+	<div class="row">
+		<div class="small-6 small-centered columns text-center">
 			<h3 class="group-header">PROJECTS</h3>
 			<div class="hrule">
 				<span class="hrule-inner"></span>
+			</div>
+		</div>
+		<div class="small-10 small-centered columns">
+			<div class="row">
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img class="project-image" src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">PROJECT 1</h5>
+							<ul class="desc-list">
+								<li class="description">Description line one</li>
+								<li class="description">Description line two</li>
+								<li>
+									<div class="tech-tag">RUBY</div>
+									<div class="tech-tag">PYTHON</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">PROJECT 2</h5>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">PROJECT 3</h5>
+						</div>
+					</div>
+				</div>
+				<div class="large-6 columns project-container">
+					<div class="row">
+						<div class="small-4 columns">
+							<img src="http://placehold.it/130x130"/>
+						</div>
+						<div class="small-8 columns">
+							<h5 class="project-header">PROJECT 4</h5>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -43,7 +97,6 @@
 
 	<div class="row text-center">
 		<div class="small-6 small-centered columns">
-			<h3 class="group-header">LINKS</h3>
 			<div class="hrule">
 				<span class="hrule-inner"></span>
 			</div>
