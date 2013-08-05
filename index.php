@@ -172,7 +172,7 @@
 				<span class="hrule-inner"></span>
 			</div>
 		</div>
-		<div class="small-8 small-centered columns">
+		<div class="small-12 large-8 small-centered columns">
 			<h5 class="resume-header">OBJECTIVE</h5>
 			<p class="resume-body">Seeking full-time employment after my graduation in December, 2013.</p>
 
