@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" preserveAspectRatio="xMinYMin none" viewBox="0 0 130 130" enable-background="new 0 0 130 130" xml:space="preserve">
+<g id="Layer_2">
+	<rect x="-5" y="-3" fill="#F2F2F2" width="141" height="137"/>
+</g>
+<g id="Layer_1">
+	<rect x="9.5" y="10.5" fill="#E6E6E6" stroke="#CCCCCC" stroke-miterlimit="10" width="110" height="27"/>
+	<rect x="9.5" y="48.5" fill="#E6E6E6" stroke="#CCCCCC" stroke-miterlimit="10" width="33" height="72"/>
+	<rect x="54.5" y="48.5" fill="#E6E6E6" stroke="#CCCCCC" stroke-miterlimit="10" width="65" height="72"/>
+	<rect x="60" y="59" fill="#C15B5F" width="53" height="1"/>
+	<rect x="60" y="69" fill="#C15B5F" width="53" height="1"/>
+	<rect x="60" y="79" fill="#C15B5F" width="53" height="1"/>
+	<rect x="60" y="88" fill="#C15B5F" width="53" height="1"/>
+	<rect x="13" y="59" fill="#C15B5F" width="26" height="1"/>
+	<rect x="13" y="69" fill="#C15B5F" width="26" height="1"/>
+	<rect x="13" y="79" fill="#C15B5F" width="26" height="1"/>
+	<rect x="13" y="88" fill="#C15B5F" width="26" height="1"/>
+	<rect x="13.5" y="16.5" fill="#E6E6E6" stroke="#C15B5F" stroke-miterlimit="10" width="29" height="17"/>
+	<rect x="54.5" y="16.5" fill="#E6E6E6" stroke="#C15B5F" stroke-miterlimit="10" width="61" height="17"/>
+</g>
+</svg>
