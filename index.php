@@ -31,7 +31,7 @@
 			</div>
 		</div>
 
-		<div class="small-10 small-centered columns">
+		<div class="small-12 small-centered columns">
 			<div class="row">
 				<div class="large-6 columns project-container">
 					<div class="row">
