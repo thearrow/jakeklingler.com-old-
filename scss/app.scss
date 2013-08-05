@@ -178,6 +178,22 @@ $bkgSmall: url('../img/bkg-small.jpg');
 }
 
 //LINKS====================================================
+.email-me{
+	display: inline-block;
+	font:{
+		size: 1.25em;
+		family: $fontFamily;
+	}
+	padding:{
+		left: 8px;
+		right: 8px;
+	}
+	color: #3c3c3c;
+	background: #F2F2F2;
+	border: 1px solid;
+	border-color: #dfdfdf;
+	box-shadow: $subtleShadow;
+}
 .image-row{
 	@media #{$screen} { 
 		max-width: 18em;	 
@@ -187,6 +203,8 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	}
 }
 .link-image{
+	border: 1px solid;
+	border-color: #dfdfdf;
 	box-shadow: $subtleShadow;
 	@media #{$screen} { 
 		height: 73px;
@@ -198,6 +216,8 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	}
 }
 .link-image-small{
+	border: 1px solid;
+	border-color: #dfdfdf;
 	box-shadow: $subtleShadow;
 	@media #{$screen} { 
 		height: 25px;

@@ -19,7 +19,7 @@
 	<div class="top">
 		<div class="row text-center header-container">
 			<h1 class="header">JAKE KLINGLER</h1>
-			<h3 class="small-header">New Site Coming Soon...</h3>
+			<h3 class="small-header">I'm a programmer from Columbus, OH.</h3>
 		</div>
 	</div>
 
@@ -196,14 +196,15 @@
 
 	<div class="row text-center">
 		<div class="small-6 small-centered columns">
-		<h3 class="group-header">CONTACT & LINKS</h3>
+		<h3 class="group-header">CONTACT &amp; LINKS</h3>
 			<div class="hrule">
 				<span class="hrule-inner"></span>
 			</div>
 		</div>
 	</div>
-	<div class="row image-row">
+	<div class="row image-row text-center">
 		<div class="small-centered columns">
+		<p><a href="mailto:thearrow3456@gmail.com" class="email-me">EMAIL ME</a></p>
 			<ul class="small-block-grid-3">
 				<li>
 					<a href="http://github.com/thearrow">
