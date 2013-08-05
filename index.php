@@ -115,7 +115,7 @@
 							<p class="project-info">The Ohio State University Libraries<br/> (Sept 2009 - Feb 2013)</p>
 							<ul class="desc-list">
 								<li class="description">Assisted with development of several applications for the OSU Libraries.</li>
-								<li class="description">(<a href="http://library.osu.edu/about/map/">Library map</a> in JS, a Rails scheduling app, <a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator.</li>
+								<li class="description">(<a class="project-link" href="http://library.osu.edu/about/map/">Library map</a> in JS, a Rails scheduling app, <a class="project-link" href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator)</li>
 								<li>
 									<div class="tech-tag">RUBY ON RAILS</div>
 									<div class="tech-tag">JS/CSS/HTML</div>

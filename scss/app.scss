@@ -152,6 +152,12 @@ $bkgSmall: url('../img/bkg-small.jpg');
 .description{
 	font-size: .85em;
 }
+.project-link{
+	color: #C15B5F;
+}
+.project-link:hover{
+	color: #C15B5F;
+}
 .tech-tag{
 	display: inline-block;
 	font-size: .75em;
@@ -193,6 +199,9 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	border: 1px solid;
 	border-color: #dfdfdf;
 	box-shadow: $subtleShadow;
+}
+.email-me:hover{
+	color: #C15B5F;
 }
 .image-row{
 	@media #{$screen} { 
