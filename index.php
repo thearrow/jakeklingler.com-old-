@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html" charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
 	<link rel="stylesheet" type="text/css" href="scss/app.css"/>
 	<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
