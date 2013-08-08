@@ -8,6 +8,8 @@
 @import "foundation/components/forms";
 
 $fontFamily: 'Raleway';
+$thinWeight: 200;
+$thickWeight: 400;
 $defaultShadow: 1px 1px 2px rgba(0,0,0,0.5);
 $subtleShadow: 1px 1px 1px rgba(0,0,0, 0.1);
 $hrColor: rgba(0,0,0,.15);
@@ -19,6 +21,14 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	font-family: $fontFamily;
 	color: rgba(255,255,255,1);
 	text-shadow: $defaultShadow;
+}
+
+body, p, h5 {
+	font:{
+		family: $fontFamily;
+		weight: $thickWeight;
+		size: 1em;
+	}
 }
 
 //HEADER===================================================
@@ -44,13 +54,13 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	@media #{$screen} {
 		font:{
 			size: 2.5em;
-			weight: 300;
+			weight: $thickWeight;
 		}
 	}
 	@media #{$small} {
 		font:{
 			size: 5em;
-			weight: 100;
+			weight: $thinWeight;
 		}
 	}
 }
@@ -60,34 +70,30 @@ $bkgSmall: url('../img/bkg-small.jpg');
 	@media #{$screen} { 
 		font:{
 			size: 1em;
-			weight: 300;
+			weight: $thickWeight;
 		} 
 	}
 	@media #{$small} { 
 		font:{
 			size: 2em;
-			weight: 100;
+			weight: $thinWeight;
 		} 
 	}	
 }
 
 //GROUPS===================================================
 .group-header{
-	font-family: $fontFamily;
+	font:{
+		family: $fontFamily;
+		weight: $thickWeight;
+	}
 	margin-top: 1em;
 	color: rgba(0,0,0,1);
 	@media #{$screen} { 
-		font:{
-			size: 1.75em;
-			weight: 400;
-		} 
+		font-size: 1.75em;
 	}
 	@media #{$small} { 
-		text-shadow: $subtleShadow;
-		font:{
-			size: 2em;
-			weight: 300;
-		} 
+		font-size: 2em;
 	}
 }
 .hrule{
@@ -122,7 +128,6 @@ $bkgSmall: url('../img/bkg-small.jpg');
 //PROJECTS=================================================
 .project-container{
 	margin-top: 1em;
-	font-family: $fontFamily;
 }
 .project-image{
 	margin-top:.2em;
@@ -136,21 +141,16 @@ $bkgSmall: url('../img/bkg-small.jpg');
 		top:0;
 		bottom:0;
 	}
-	font:{
-		family: $fontFamily;
-		weight: 400;
-		size: 1.25em;
-	}
+	font-size:1.25em;
 }
 .project-info{
-	font-size: .75em;
+	font-size: .85em;
 	color: #a3a3a3;
 }
 .desc-list{
 	list-style-type: none;
 }
 .description{
-	font-size: .85em;
 }
 .project-link{
 	color: #C15B5F;
@@ -177,19 +177,12 @@ $bkgSmall: url('../img/bkg-small.jpg');
 }
 .resume-body{
 	margin-bottom: 1em;
-	font:{
-		size: .85em;
-		family: $fontFamily;
-	}
 }
 
 //LINKS====================================================
 .email-me{
 	display: inline-block;
-	font:{
-		size: 1.25em;
-		family: $fontFamily;
-	}
+	font-size: 1.25em;
 	padding:{
 		left: 8px;
 		right: 8px;

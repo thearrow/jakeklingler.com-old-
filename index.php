@@ -8,7 +8,7 @@
 	<script>
 		WebFont.load({
 			google: {
-				families: ['Raleway:100,300']
+				families: ['Raleway:200,400']
 			}
 		});
 	</script>
