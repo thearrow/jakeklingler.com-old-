@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width" />
 	<link rel="stylesheet" type="text/css" href="scss/app.css"/>
 	<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
@@ -37,7 +37,7 @@
 					<div class="row">
 						<div class="small-4 columns">
 							<a href="http://www.epic.com/software-phr.php">
-								<img class="project-image" src="img/projects/mychart.svg"/>
+								<img class="project-image" src="img/projects/mychart.svg" alt="MyChart for Windows Phone"/>
 							</a>
 						</div>
 						<div class="small-8 columns">
@@ -60,7 +60,7 @@
 					<div class="row">
 						<div class="small-4 columns">
 							<a href="https://github.com/thearrow/securitysystem-android">
-								<img class="project-image" src="img/projects/laser.svg"/>
+								<img class="project-image" src="img/projects/laser.svg" alt="Laser Tripwire System"/>
 							</a>
 						</div>
 						<div class="small-8 columns">
@@ -87,7 +87,7 @@
 					<div class="row">
 						<div class="small-4 columns">
 						<a href="https://github.com/thearrow/ai-financialANN">
-							<img class="project-image" src="img/projects/ann.svg"/>
+							<img class="project-image" src="img/projects/ann.svg" alt="Financial Market Neural Network"/>
 						</a>
 						</div>
 						<div class="small-8 columns">
@@ -108,7 +108,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/map.svg"/>
+							<img class="project-image" src="img/projects/map.svg" alt="Various Web Projects"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">VARIOUS WEB PROJECTS</h5>
@@ -130,7 +130,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/hoban.svg"/>
+							<img class="project-image" src="img/projects/hoban.svg" alt="Reunion Website"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">HIGH SCHOOL REUNION WEBSITE</h5>
@@ -147,7 +147,7 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/rateit.svg"/>
+							<img class="project-image" src="img/projects/rateit.svg" alt="Rate-It iPhone App"/>
 						</div>
 						<div class="small-8 columns">
 							<h5 class="project-header">RATE-IT IPHONE APP</h5>
