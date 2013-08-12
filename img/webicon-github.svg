@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 preserveAspectRatio="xMinYMin none" viewBox="0 90 130 130" enable-background="new 0 90 130 130" xml:space="preserve">
+	 width="130px" height="130px" viewBox="0 90 130 130" preserveAspectRatio="xMinYMin none" enable-background="new 0 90 130 130" xml:space="preserve">
 <path fill="#F2F2F2" d="M130,220H0V90h130V220z"/>
 <path fill="none" d="M75.007,170.738c0,0,4.114,13.709,16.179,10.969c12.068-2.744,12.889-18.102,5.761-26.051
 	C89.816,147.701,71.443,160.314,75.007,170.738z"/>

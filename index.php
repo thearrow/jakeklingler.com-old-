@@ -130,10 +130,14 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/hoban.svg" alt="Reunion Website"/>
+							<a href="img/hoban.png">
+								<img class="project-image" src="img/projects/hoban.svg" alt="Reunion Website"/>
+							</a>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">HIGH SCHOOL REUNION WEBSITE</h5>
+							<a href="img/hoban.png">
+								<h5 class="project-header">HIGH SCHOOL REUNION WEBSITE</h5>
+							</a>
 							<p class="project-info">Hoban Class of 1970 – (Jul-Aug 2010)</p>
 							<ul class="desc-list">
 								<li class="description">Designed and built a website for a high school class reunion using Drupal CMS.</li>
@@ -147,10 +151,14 @@
 				<div class="large-6 columns project-container">
 					<div class="row">
 						<div class="small-4 columns">
-							<img class="project-image" src="img/projects/rateit.svg" alt="Rate-It iPhone App"/>
+							<a href="img/rateit.png">
+								<img class="project-image" src="img/projects/rateit.svg" alt="Rate-It iPhone App"/>
+							</a>
 						</div>
 						<div class="small-8 columns">
-							<h5 class="project-header">RATE-IT IPHONE APP</h5>
+							<a href="img/rateit.png">
+								<h5 class="project-header">RATE-IT IPHONE APP</h5>
+							</a>
 							<p class="project-info">Carrick Enterprises – (Jun-Aug 2009)</p>
 							<ul class="desc-list">
 								<li class="description">Built a simple app for rating user-specified categories of items (e.g. wine, cat food, etc.)</li>
