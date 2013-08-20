@@ -1,4 +1,4 @@
-jakeklingler.com
+http://www.jakeklingler.com
 ===============================
 
 - My personal site, created to host my resume and info about my projects.
