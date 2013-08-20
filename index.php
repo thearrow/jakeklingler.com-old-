@@ -17,7 +17,6 @@
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-43210809-1']);
 		_gaq.push(['_trackPageview']);
-
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -252,8 +251,8 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.facebook.com/jacob.klingler">
-								<img class="link-image-small" src="img/webicon-facebook.svg" alt="My Facebook"/>
+							<a href="http://www.linkedin.com/pub/jake-klingler/78/999/10b">
+								<img class="link-image-small" src="img/webicon-linkedin.svg" alt="My LinkedIn"/>
 							</a>
 						</li>
 						<li>
