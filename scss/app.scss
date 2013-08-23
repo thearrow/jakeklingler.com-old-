@@ -14,6 +14,7 @@ $defaultShadow: 1px 1px 2px rgba(0,0,0,0.5);
 $subtleShadow: 1px 1px 1px rgba(0,0,0, 0.1);
 $hrColor: rgba(0,0,0,.15);
 $hrSize: 10px;
+$squareImageWidth: 135px;
 $bkgLarge: url('../img/bkg.jpg');
 $bkgSmall: url('../img/bkg-small.jpg');
 $darkGray: #a3a3a3;
@@ -86,10 +87,10 @@ body{
 		border: 1px solid;
 		border-color: $mediumGray;
 		@media #{$screen} { 
-			 width: 70px;
+			 width: $squareImageWidth/2;
 		}
 		@media #{$small} { 
-			width: 100px;
+			width: $squareImageWidth;
 		}
 	}
 	h3{		
@@ -156,7 +157,7 @@ body{
 .project-container{
 	margin-top: 1em;
 	img{
-		max-width: 150px;
+		max-width: $squareImageWidth;
 		margin-top:.2em;
 		border: 1px solid;
 		border-color: $mediumGray;
@@ -210,6 +211,7 @@ body{
 //LINKS====================================================
 .email-me{
 	display: inline-block;
+	width: $squareImageWidth;
 	font-size: 1.25em;
 	padding:{
 		left: 8px;
@@ -224,44 +226,13 @@ body{
 		color: $darkRed;
 	}
 }
-.image-row{
-	@media #{$screen} { 
-		max-width: 18em;	 
-	}
-	@media #{$small} { 
-		max-width: 25em;		 
-	}
-}
 .link-images{
-	//LARGE
 	li img{
 		border: 1px solid;
 		border-color: $mediumGray;
 		box-shadow: $subtleShadow;
-		@media #{$screen} { 
-			height: 73px;
-			width: 73px; 
-		}
-		@media #{$small} { 
-			height: 110px;
-			width: 110px; 
-		}
+		width: $squareImageWidth;
 	}
-
-	//SMALL
-	li li img{
-		border: 1px solid;
-		border-color: $mediumGray;
-		box-shadow: $subtleShadow;
-		@media #{$screen} { 
-			height: 25px;
-			width: 25px; 
-		}
-		@media #{$small} { 
-			height: 45px;
-			width: 45px; 
-		}
-	}	
 }
 
 
