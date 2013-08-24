@@ -15,7 +15,8 @@
 							</a>
 						</div>
 						<div class="small-8 columns">
-							<a href="http://www.epic.com/software-phr.php">
+							<a href="http://www.epic.com/software-phr.php"
+							onClick="trackOutboundLink(this, 'Outbound Links', 'Epic MyChart'); return false;">
 								<h5>MYCHART WINDOWS PHONE APP</h5>
 							</a>
 							<p>Epic – (May-Aug 2013)</p>
@@ -35,7 +36,8 @@
 				<li>
 					<div class="row">
 						<div class="small-4 columns">
-							<a href="https://github.com/thearrow/securitysystem-android">
+							<a href="https://github.com/thearrow/securitysystem-android"
+							onClick="trackOutboundLink(this, 'Outbound Links', 'Laser Tripwire Repo'); return false;">
 								<img src="img/projects/laser.svg" alt="Laser Tripwire System" type='image/svg+xml' width="100%" height="100%"/>
 							</a>
 						</div>
@@ -59,7 +61,8 @@
 				<li>
 					<div class="row">
 						<div class="small-4 columns">
-							<a href="https://github.com/thearrow/ai-financialANN">
+							<a href="https://github.com/thearrow/ai-financialANN"
+							onClick="trackOutboundLink(this, 'Outbound Links', 'Financial ANN Repo'); return false;">
 								<img src="img/projects/ann.svg" alt="Financial Market Neural Network" type='image/svg+xml' width="100%" height="100%"/>
 							</a>
 						</div>
@@ -81,7 +84,8 @@
 				<li>
 					<div class="row">
 						<div class="small-4 columns">
-						<a href="http://library.osu.edu/about/map/">
+						<a href="http://library.osu.edu/about/map/"
+						onClick="trackOutboundLink(this, 'Outbound Links', 'Library Map'); return false;">
 							<img src="img/projects/map.svg" alt="Various Web Projects" type='image/svg+xml' width="100%" height="100%"/>
 						</a>
 						</div>
@@ -107,7 +111,8 @@
 				<li>
 					<div class="row">
 						<div class="small-4 columns">
-							<a href="img/hoban.png">
+							<a href="img/hoban.png"
+							onClick="trackOutboundLink(this, 'Outbound Links', 'Hoban Image'); return false;">
 								<img src="img/projects/hoban.svg" alt="Reunion Website" type='image/svg+xml' width="100%" height="100%"/>
 							</a>
 						</div>
@@ -129,7 +134,8 @@
 				<li>
 					<div class="row">
 						<div class="small-4 columns">
-							<a href="img/rateit.png">
+							<a href="img/rateit.png"
+							onClick="trackOutboundLink(this, 'Outbound Links', 'RateIt Image'); return false;">
 								<img src="img/projects/rateit.svg" alt="Rate-It iPhone App" type='image/svg+xml' width="100%" height="100%"/>
 							</a>
 						</div>
