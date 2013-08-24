@@ -1,6 +1,8 @@
 <div class="row">
 		<div class="small-6 small-centered columns text-center">
-			<h3 class="group-header">RESUME</h3>
+			<a href="JakeKlingler-Resume.pdf">
+				<h3 class="group-header">RESUME<img src="img/pdf.svg" alt="Resume PDF" type='image/svg+xml' width="100%" height="100%"/></h3>
+			</a>
 			<div class="hrule"><span/></div>
 		</div>
 		<div class="small-12 large-8 small-centered columns resume-container">

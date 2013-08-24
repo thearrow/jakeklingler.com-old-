@@ -123,6 +123,11 @@ body{
 
 //GROUPS===================================================
 .group-header{
+	img{
+		margin-left: .25em;
+		margin-top: -.25em;
+		width: $squareImageWidth/4.5;
+	}
 	font:{
 		family: $fontFamily;
 		weight: $fontWeightThick;
