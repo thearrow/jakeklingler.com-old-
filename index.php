@@ -43,13 +43,52 @@
 		</div>
 	</div>
 
+<!-- RESUME -->
+	<div class="row">
+		<div class="small-6 small-centered columns text-center">
+			<h3 class="group-header">RESUME</h3>
+			<div class="hrule"><span/></div>
+		</div>
+		<div class="small-12 large-8 small-centered columns resume-container">
+			<h5>OBJECTIVE</h5>
+			<p>Seeking a full-time software engineering position after my graduation in December, 2013.</p>
+
+			<h5>EDUCATION</h5>
+			<p>
+			<strong>B.S. Computer Science &amp; Engineering</strong>, Graduation: Dec, 2013<br/>
+			The Ohio State University, Columbus, OH<br/>
+			Overall GPA (4.00 scale): 3.5</p>
+
+			<h5>WORK EXPERIENCE</h5>
+			<p><strong>Software Developer Intern</strong> (May, 2013 – August, 2013)<br/>
+			Epic Systems, Verona, WI<br/>
+			Designed and developed MyChart for Windows Phone 8 with two other interns.</p>
+			<ul>
+				<li class="tech-tags">
+					<div>C#</div>
+					<div>.NET</div>
+					<div>WINDOWS PHONE</div>
+				</li>
+			</ul>
+			<p><strong>Student Programmer</strong> (September, 2009 – February, 2013)<br/>
+			The Ohio State University, Libraries Web Implementation Team, Columbus, OH<br/>
+			Assisted with programming tasks and development of projects for the Libraries Web Team</p>
+			<ul>
+				<li class="tech-tags">
+					<div>RUBY ON RAILS</div>
+					<div>JS/CSS/HTML</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+<!-- PROJECTS -->
 	<div class="row">
 		<div class="small-6 small-centered columns text-center">
 			<h3 class="group-header">PROJECTS</h3>
 			<div class="hrule"><span/></div>
 		</div>
 	</div>
-
 	<div class="row">
 		<div class="small-centered columns">
 			<ul class="large-block-grid-2 project-container">
@@ -62,7 +101,7 @@
 						</div>
 						<div class="small-8 columns">
 							<a href="http://www.epic.com/software-phr.php">
-								<h5>MYCHART FOR WINDOWS PHONE</h5>
+								<h5>MYCHART WINDOWS PHONE APP</h5>
 							</a>
 							<p>Epic – (May-Aug 2013)</p>
 							<ul>
@@ -70,7 +109,7 @@
 								<li class="tech-tags">
 									<div>C#</div>
 									<div>.NET</div>
-									<div>XAML</div>
+									<div>WINDOWS PHONE</div>
 								</li>
 							</ul>
 						</div>
@@ -124,14 +163,18 @@
 				<li>
 					<div class="row">
 						<div class="small-4 columns">
+						<a href="http://library.osu.edu/about/map/">
 							<img src="img/projects/map.svg" alt="Various Web Projects" type='image/svg+xml' width="100%" height="100%"/>
+						</a>
 						</div>
 						<div class="small-8 columns">
-							<h5>VARIOUS WEB PROJECTS</h5>
+							<a href="http://library.osu.edu/about/map/">
+								<h5>VARIOUS WEB PROJECTS</h5>
+							</a>
 							<p>The Ohio State University Libraries<br/> (Sept 2009 - Feb 2013)</p>
 							<ul>
-								<li>Assisted with development of several applications for the OSU Libraries.</li>
-								<li>(<a class="project-link" href="http://library.osu.edu/about/map/">Library map</a> in JS, a Rails scheduling app, <a class="project-link" href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator)</li>
+								<li>Assisted with development of several applications for the OSU Libraries:</li>
+								<li>An internal scheduling app built with Rails, the <a href="http://library.osu.edu/about/map/">library map</a> in JS,  <a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator</li>
 								<li class="tech-tags">
 									<div>RUBY ON RAILS</div>
 									<div>JS/CSS/HTML</div>
@@ -177,6 +220,7 @@
 								<li>Built a simple app for rating user-specified categories of items (e.g. wine, cat food, etc.)</li>
 								<li class="tech-tags">
 									<div>OBJECTIVE-C</div>
+									<div>IPHONE</div>
 								</li>
 							</ul>
 						</div>
@@ -186,33 +230,7 @@
 		</div>	
 	</div>
 
-	<div class="row">
-		<div class="small-6 small-centered columns text-center">
-			<h3 class="group-header">RESUME</h3>
-			<div class="hrule"><span/></div>
-		</div>
-		<div class="small-12 large-8 small-centered columns resume-container">
-			<h5>OBJECTIVE</h5>
-			<p>Seeking a full-time software engineering position after my graduation in December, 2013.</p>
-
-			<h5>EDUCATION</h5>
-			<p>
-			The Ohio State University, Columbus, OH<br/>
-			B.S. Computer Science Engineering, Graduation: Dec, 2013<br/>
-			Overall GPA (4.00 scale): 3.5</p>
-
-			<h5>WORK EXPERIENCE</h5>
-			<p>
-			Software Developer Intern (May, 2013 – August, 2013)<br/>
-			Epic Systems, Verona, WI<br/>
-			Designed and developed MyChart for Windows Phone 8 with two other interns.</p>
-			<p>
-			Student Programmer (September, 2009 – February, 2013)<br/>
-			The Ohio State University, Libraries Web Implementation Team, Columbus, OH<br/>
-			Assisted with programming tasks and development of projects for the Libraries Web Team</p>
-		</div>
-	</div>
-
+<!-- ABOUT ME -->
 	<div class="row">
 		<div class="small-6 small-centered columns text-center">
 			<h3 class="group-header">ABOUT ME</h3>
@@ -245,6 +263,7 @@
 		</div>
 	</div>
 
+<!-- LINKS -->
 	<div class="row text-center">
 		<div class="small-6 small-centered columns">
 		<h3 class="group-header">CONTACT &amp; LINKS</h3>
@@ -276,7 +295,6 @@
 			</ul>
 		</div>
 	</div>
-
 
 	<!-- FOUNDATION -->
 	<script src="js/app.js"></script>

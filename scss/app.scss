@@ -161,6 +161,13 @@ body{
 	}
 }
 
+//RESUME===================================================
+.resume-container{
+	p{
+		margin-bottom: 0;
+	}
+}
+
 //PROJECTS=================================================
 .project-container{
 	margin-top: 1em;
@@ -187,6 +194,7 @@ body{
 	}
 }
 .tech-tags{
+	list-style-type: none;
 	div{
 		display: inline-block;
 		font-size: .75em;
@@ -198,13 +206,6 @@ body{
 		background: $lightGray;
 		border: 1px solid;
 		border-color: $mediumGray;
-	}
-}
-
-//RESUME===================================================
-.resume-container{
-	p{
-		margin-bottom: 0.75em;
 	}
 }
 
