@@ -72,7 +72,7 @@
 			</ul>
 			<p><strong>Student Programmer</strong> (September, 2009 – February, 2013)<br/>
 			The Ohio State University, Libraries Web Implementation Team, Columbus, OH<br/>
-			Assisted with programming tasks and development of projects for the Libraries Web Team</p>
+			Assisted with design and development of projects for the Libraries Web Team.</p>
 			<ul>
 				<li class="tech-tags">
 					<div>RUBY ON RAILS</div>
@@ -89,7 +89,7 @@
 			<div class="hrule"><span/></div>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row project-row">
 		<div class="small-centered columns">
 			<ul class="large-block-grid-2 project-container">
 				<li>
@@ -105,7 +105,9 @@
 							</a>
 							<p>Epic – (May-Aug 2013)</p>
 							<ul>
-								<li>MyChart allows patients to access their health information, view test results, send messages to their doctor, refill medications, and schedule appointments from their phone.</li>
+								<li>MyChart allows patients to access their health information, 
+								view test results, send messages to their doctor, refill medications, 
+								schedule appointments, etc. from their phone.</li>
 								<li class="tech-tags">
 									<div>C#</div>
 									<div>.NET</div>
@@ -128,7 +130,8 @@
 							</a>
 							<p>The Ohio State University – (Feb-Apr 2013)</p>
 							<ul>
-								<li>Built sensors using Raspberry Pi's and laser pointers that sent a push notification to a mobile app when tripped.</li>
+								<li>Built sensors using Raspberry Pi's and laser pointers that sent a push notification to a mobile Android app when tripped.</li>
+								<li>Server/API in Rails, Sensors in Python, MobileApp in JS/CSS/HTML.
 								<li class="tech-tags">
 									<div>RUBY ON RAILS</div>
 									<div>JS/CSS/HTML</div>
@@ -152,7 +155,7 @@
 							<p>The Ohio State University – (Feb-Apr 2013)</p>
 							<ul>
 								<li>Designed and trained a recurrent neural network to predict the short-term movements of financial markets.</li>
-								<li>(PyBrain, pandas, numpy, matplotlib)</li>
+								<li>Used PyBrain, pandas, numpy, matplotlib.</li>
 								<li class="tech-tags">
 									<div>PYTHON</div>
 								</li>
@@ -174,7 +177,10 @@
 							<p>The Ohio State University Libraries<br/> (Sept 2009 - Feb 2013)</p>
 							<ul>
 								<li>Assisted with development of several applications for the OSU Libraries:</li>
-								<li>An internal scheduling app built with Rails, the <a href="http://library.osu.edu/about/map/">library map</a> in JS,  <a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> mobile app with Appcelerator</li>
+								<li>An internal scheduling app in Rails, the 
+								<a href="http://library.osu.edu/about/map/">library map</a> in JS,  
+								<a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> 
+								mobile app with Appcelerator.</li>
 								<li class="tech-tags">
 									<div>RUBY ON RAILS</div>
 									<div>JS/CSS/HTML</div>
@@ -197,6 +203,7 @@
 							<p>Hoban Class of 1970 – (Jul-Aug 2010)</p>
 							<ul>
 								<li>Designed and built a website for a high school class reunion.</li>
+								<li>Users could create accounts and log in, accessing information about the event and classmates.</li>
 								<li class="tech-tags">
 									<div>JS/CSS/HTML</div>
 								</li>
@@ -217,7 +224,7 @@
 							</a>
 							<p>Carrick Enterprises – (Jun-Aug 2009)</p>
 							<ul>
-								<li>Built a simple app for rating user-specified categories of items (e.g. wine, cat food, etc.)</li>
+								<li>Built a simple app for rating user-specified categories of items (e.g. wine, cat food, etc.).</li>
 								<li class="tech-tags">
 									<div>OBJECTIVE-C</div>
 									<div>IPHONE</div>

@@ -127,7 +127,7 @@ body{
 		family: $fontFamily;
 		weight: $fontWeightThick;
 	}
-	margin-top: 1em;
+	margin-top: 1.5em;
 	color: rgba(0,0,0,1);
 	font-size: $fontSizeNormal*2;
 }
@@ -169,8 +169,19 @@ body{
 }
 
 //PROJECTS=================================================
+.project-row{
+	max-width: 70em;
+}
 .project-container{
-	margin-top: 1em;
+	div.row{
+		margin-top: 1em;
+	}
+	div div.small-4{
+		text-align: center;
+	}
+	div div.small-8{
+		padding-left: 0;
+	}
 	img{
 		max-width: $squareImageWidth;
 		margin-top:.2em;
