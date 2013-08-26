@@ -15,7 +15,7 @@
 			<p>
 			<strong>B.S. Computer Science &amp; Engineering</strong>, Graduation: Dec, 2013<br/>
 			The Ohio State University, Columbus, OH<br/>
-			Overall GPA (4.00 scale): 3.5</p>
+			Overall GPA (4.0 scale): 3.5</p>
 
 			<h5>WORK EXPERIENCE</h5>
 			<p><strong>Software Developer Intern</strong> (May, 2013 – August, 2013)<br/>
