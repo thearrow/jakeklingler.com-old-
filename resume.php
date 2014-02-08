@@ -28,9 +28,9 @@
 			Designed and developed MyChart for Windows Phone 8 with two other interns.</p>
 			<ul>
 				<li class="tech-tags">
+					<div>WINDOWS PHONE</div>
 					<div>C#</div>
 					<div>.NET</div>
-					<div>WINDOWS PHONE</div>
 				</li>
 			</ul>
 			<p><strong>Student Programmer</strong> (September, 2009 – February, 2013)<br/>

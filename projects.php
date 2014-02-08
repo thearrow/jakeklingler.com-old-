@@ -24,13 +24,13 @@
 							</a>
 							<p>Epic – (May-Aug 2013)</p>
 							<ul>
-								<li>MyChart allows patients to access their health information, 
+								<li>Allows patients to access their health information, 
 								view test results, send messages to their doctor, refill medications, 
-								schedule appointments, etc. from their phone.</li>
+								schedule appointments, etc. from their Windows Phone.</li>
 								<li class="tech-tags">
+									<div>WINDOWS PHONE</div>
 									<div>C#</div>
 									<div>.NET</div>
-									<div>WINDOWS PHONE</div>
 								</li>
 							</ul>
 						</div>
@@ -51,8 +51,7 @@
 							</a>
 							<p>The Ohio State University – (Feb-Apr 2013)</p>
 							<ul>
-								<li>Built sensors using Raspberry Pi's and laser pointers that sent a push notification to a mobile Android app when tripped.</li>
-								<li>Server/API in Rails, Sensors in Python, MobileApp in JS/CSS/HTML.
+								<li>Built sensors using Raspberry Pi's and laser pointers that sent a push notification to an Android app when tripped.</li>
 								<li class="tech-tags">
 									<div>RUBY ON RAILS</div>
 									<div>JS/CSS/HTML</div>
@@ -78,9 +77,11 @@
 							<p>The Ohio State University – (Feb-Apr 2013)</p>
 							<ul>
 								<li>Designed and trained a recurrent neural network to predict the short-term movements of financial markets.</li>
-								<li>Used PyBrain, pandas, numpy, matplotlib.</li>
 								<li class="tech-tags">
 									<div>PYTHON</div>
+									<div>NUMPY</div>
+									<div>SCIPY</div>
+									<div>PANDAS</div>
 								</li>
 							</ul>
 						</div>
@@ -97,15 +98,11 @@
 						</div>
 						<div class="small-8 columns">
 							<a href="http://library.osu.edu/about/map/">
-								<h5>VARIOUS WEB PROJECTS</h5>
+								<h5>LIBRARIES WEB PROJECTS</h5>
 							</a>
 							<p>The Ohio State University Libraries<br/> (Sept 2009 - Feb 2013)</p>
 							<ul>
-								<li>Assisted with development of several applications for the OSU Libraries:</li>
-								<li>An internal scheduling app in Rails, the 
-								<a href="http://library.osu.edu/about/map/">library map</a> in JS,  
-								<a href="http://library.osu.edu/buckeye-stroll/mobile">Buckeye Stroll</a> 
-								mobile app with Appcelerator.</li>
+								<li>Assisted with development of several applications for the OSU Libraries including a libraries map and an internal scheduling tool.</li>
 								<li class="tech-tags">
 									<div>RUBY ON RAILS</div>
 									<div>JS/CSS/HTML</div>
@@ -130,8 +127,8 @@
 							<p>Hoban Class of 1970 – (Jul-Aug 2010)</p>
 							<ul>
 								<li>Designed and built a website for a high school class reunion.</li>
-								<li>Users could create accounts and log in, accessing information about the event and classmates.</li>
 								<li class="tech-tags">
+									<div>DRUPAL CMS</div>
 									<div>JS/CSS/HTML</div>
 								</li>
 							</ul>
@@ -156,7 +153,6 @@
 								<li>Built a simple app for rating user-specified categories of items (e.g. wine, cat food, etc.).</li>
 								<li class="tech-tags">
 									<div>OBJECTIVE-C</div>
-									<div>IPHONE</div>
 								</li>
 							</ul>
 						</div>
