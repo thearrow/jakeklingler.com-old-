@@ -1,6 +1,7 @@
 <div class="row">
 		<div class="small-6 small-centered columns text-center">
-			<a href="JakeKlingler-Resume.pdf" onClick="trackOutboundLink(this, 'Outbound Links', 'Save Resume PDF'); return false;">
+			<a href="JakeKlingler-Resume.pdf" onClick="trackOutboundLink(this, 'Outbound Links', 'Save Resume PDF'); return false;"
+			target="_blank">
 				<h3 class="group-header">RESUME
 					<img src="img/pdf.svg" alt="Resume PDF" type='image/svg+xml' width="100%" height="100%"/>
 				</h3>

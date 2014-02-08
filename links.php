@@ -7,32 +7,38 @@
 	<div class="row text-center">
 		<div class="small-10 large-6 small-centered columns">
 		<p><a href="mailto:thearrow3456@gmail.com" class="email-me"
-			onClick="trackOutboundLink(this, 'Outbound Links', 'EMAIL); return false;">
+			onClick="ga('send','event','Outgoing Links','EMAIL)">
 			EMAIL ME</a>
 		</p>
 			<ul class="small-block-grid-3 link-images">
 				<li><a href="http://github.com/thearrow"
-				onClick="trackOutboundLink(this, 'Outbound Links', 'GitHub Profile'); return false;">
+				target="_blank"
+				onClick="ga('send','event','Outgoing Links','GitHub Profile')">
 						<img src="img/webicon-github.svg" alt="My Github"/></a>
 				</li>
 				<li><a href="http://careers.stackoverflow.com/jakeklingler"
-				onClick="trackOutboundLink(this, 'Outbound Links', 'StackOverflow Profile'); return false;">
+				target="_blank"
+				onClick="ga('send','event','Outgoing Links','StackOverflow Profile')">
 						<img src="img/webicon-stackoverflow.svg" alt="My StackOverflow"/></a>
 				</li>
 				<li><a href="http://www.linkedin.com/pub/jake-klingler/78/999/10b"
-				onClick="trackOutboundLink(this, 'Outbound Links', 'LinkedIn Profile'); return false;">
+				target="_blank"
+				onClick="ga('send','event','Outgoing Links','LinkedIn Profile')">
 						<img src="img/webicon-linkedin.svg" alt="My LinkedIn"/></a>
 				</li>
 				<li><a href="https://www.quora.com/Jake-Klingler"
-				onClick="trackOutboundLink(this, 'Outbound Links', 'Quora Profile'); return false;">
+				target="_blank"
+				onClick="ga('send','event','Outgoing Links','Quora Profile')">
 						<img src="img/webicon-quora.svg" alt="My Quora"/></a>
 				</li>
 				<li><a href="http://www.goodreads.com/user/show/8126915-jake-klingler"
-				onClick="trackOutboundLink(this, 'Outbound Links', 'GoodReads Profile'); return false;">
+				target="_blank"
+				onClick="ga('send','event','Outgoing Links','GoodReads Profile')">
 						<img src="img/webicon-goodreads.svg" alt="My GoodReads"/></a>
 				</li>
 				<li><a href="http://www.flickr.com/photos/9829286@N07/"
-				onClick="trackOutboundLink(this, 'Outbound Links', 'Flickr Profile'); return false;">
+				target="_blank"
+				onClick="ga('send','event','Outgoing Links','Flickr Profile')">
 						<img src="img/webicon-flickr.svg" alt="My Flickr"/></a>
 				</li>	
 			</ul>
