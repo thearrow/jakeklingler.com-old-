@@ -8,9 +8,6 @@
 			<div class="hrule"><span/></div>
 		</div>
 		<div class="small-12 large-8 small-centered columns resume-container">
-			<h5>OBJECTIVE</h5>
-			<p>Seeking a full-time software engineering position after my graduation in December, 2013.</p>
-
 			<h5>EDUCATION</h5>
 			<p>
 			<strong>B.S. Computer Science &amp; Engineering</strong>, Graduation: Dec, 2013<br/>
@@ -18,6 +15,13 @@
 			Overall GPA (4.0 scale): 3.5</p>
 
 			<h5>WORK EXPERIENCE</h5>
+			<p><strong>Software Developer</strong> (March, 2014 – Present)<br/>
+			Epic Systems, Verona, WI<br/></p>
+			<ul>
+				<li class="tech-tags">
+					<div>C#</div>
+				</li>
+			</ul>
 			<p><strong>Software Developer Intern</strong> (May, 2013 – August, 2013)<br/>
 			Epic Systems, Verona, WI<br/>
 			Designed and developed MyChart for Windows Phone 8 with two other interns.</p>
