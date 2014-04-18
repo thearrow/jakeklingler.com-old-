@@ -38,8 +38,7 @@
 			</ul>
 
 			<h5>EDUCATION</h5>
-			<p><strong>B.S. Computer Science &amp; Engineering</strong>, Graduation: Dec, 2013<br/>
-			The Ohio State University, Columbus, OH<br/>
-			Overall GPA (4.0 scale): 3.5</p>
+			<p><strong>B.S. Computer Science &amp; Engineering</strong> (Dec, 2013)<br/>
+			The Ohio State University, Columbus, OH</p>
 		</div>
 	</div>
