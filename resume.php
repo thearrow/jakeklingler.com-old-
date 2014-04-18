@@ -9,12 +9,6 @@
 			<div class="hrule"><span/></div>
 		</div>
 		<div class="small-12 large-8 small-centered columns resume-container">
-			<h5>EDUCATION</h5>
-			<p>
-			<strong>B.S. Computer Science &amp; Engineering</strong>, Graduation: Dec, 2013<br/>
-			The Ohio State University, Columbus, OH<br/>
-			Overall GPA (4.0 scale): 3.5</p>
-
 			<h5>WORK EXPERIENCE</h5>
 			<p><strong>Software Developer</strong> (March, 2014 – Present)<br/>
 			Epic Systems, Verona, WI<br/></p>
@@ -42,5 +36,10 @@
 					<div>JS/CSS/HTML</div>
 				</li>
 			</ul>
+
+			<h5>EDUCATION</h5>
+			<p><strong>B.S. Computer Science &amp; Engineering</strong>, Graduation: Dec, 2013<br/>
+			The Ohio State University, Columbus, OH<br/>
+			Overall GPA (4.0 scale): 3.5</p>
 		</div>
 	</div>

@@ -13,7 +13,7 @@
 		<div class="row text-center header-container">
 			<h1>JAKE KLINGLER</h1>
 			<img src="http://www.gravatar.com/avatar/307a641b6c78cec6701f87d6c59534b9?s=200"/>
-			<h3>I'm a programmer from Columbus, OH.</h3>
+			<h3>I'm a programmer in Madison, WI.</h3>
 		</div>
 	</div>
 
