@@ -1,5 +1,9 @@
+**This is the old version of my personal site. In September 2014 I switched to the [updated version](https://github.com/thearrow/personal-site) built with middleman.**
+
+
+
 http://www.jakeklingler.com
-===============================
+====
 
 - My personal site, created to host my resume and info about my projects.
 
