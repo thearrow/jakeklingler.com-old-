@@ -2,8 +2,7 @@
 
 
 
-http://www.jakeklingler.com
-====
+Old version of the site is still live at [jakeklingler.herokuapp.com](http://jakeklingler.herokuapp.com/)
 
 - My personal site, created to host my resume and info about my projects.
 
